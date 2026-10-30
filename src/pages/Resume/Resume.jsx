@@ -28,6 +28,11 @@ function Resume() {
       <Header />
       <Main>
         <div ref={ref} className="w-full max-w-225 mx-auto my-10">
+                    <div className="mb-4 text-center">
+            <a href={Curriculo} target="_blank" rel="noopener noreferrer" className="underline">
+              Abrir currículo em PDF
+            </a>
+          </div>
           <Document
             file={Curriculo}
             externalLinkTarget="_blank"

@@ -13,11 +13,11 @@ function Header() {
                             <Link to="/" className="transition duration-300 ease-in-out hover:scale-110 text-center p-2 w-25 
                             border-2 border-teal-400/70 text-homeText font-mono hover:bg-teal-950/50 hover:text-white hover:border-teal-300 rounded-3xl">Home</Link>
                             <Link to="/about" className="transition duration-300 ease-in-out hover:scale-110 text-center p-2 w-25 
-                            border-2 border-teal-400/70 text-homeText font-mono hover:bg-teal-950/50 hover:text-white hover:border-teal-300 rounded-3xl">About</Link>
+                            border-2 border-teal-400/70 text-homeText font-mono hover:bg-teal-950/50 hover:text-white hover:border-teal-300 rounded-3xl">Sobre</Link>
                             <Link to="/projects" className="transition duration-300 ease-in-out hover:scale-110 text-center p-2 w-25 
-                            border-2 border-teal-400/70 text-homeText font-mono hover:bg-teal-950/50 hover:text-white hover:border-teal-300 rounded-3xl">Projects</Link>
+                            border-2 border-teal-400/70 text-homeText font-mono hover:bg-teal-950/50 hover:text-white hover:border-teal-300 rounded-3xl">Projetos</Link>
                             <Link to="/resume" className="transition duration-300 ease-in-out hover:scale-110 text-center p-2 w-25 
-                            border-2 border-teal-400/70 text-homeText font-mono hover:bg-teal-950/50 hover:text-white hover:border-teal-300 rounded-3xl">Resume</Link>
+                            border-2 border-teal-400/70 text-homeText font-mono hover:bg-teal-950/50 hover:text-white hover:border-teal-300 rounded-3xl">Currículo</Link>
                         </nav>
                     </div>
                 

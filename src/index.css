@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-mainbg: var(--color-green-600);
+  --background-image-header: linear-gradient(to top right, var(--color-emerald-800), var(--color-emerald-600), var(--color-emerald-400));
+  --background-image-footer: linear-Gradient(to bottom left, var(--color-emerald-800), var(--color-emerald-600), var(--color-emerald-400));
+  --color-homeText: var(--color-teal-300);
+}

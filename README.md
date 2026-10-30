@@ -2,9 +2,7 @@
  
 Meu portfólio pessoal, feito para apresentar quem eu sou, as tecnologias que uso e os projetos que desenvolvo. O site tem página inicial, sobre mim, lista de projetos, página de detalhes de cada projeto e uma página com o meu currículo em PDF.
  
-<!-- Quando o site for publicado, descomente a linha abaixo e coloque o link:
-🔗 **Site no ar:** https://SEU-LINK-AQUI
--->
+🔗 **Site no ar:** https://portofolio-joaogabrielbmf.vercel.app/
  
 <!-- Adicione uma captura de tela em docs/screenshot.png e descomente:
 ![Captura de tela do portfólio](./docs/screenshot.png)
@@ -74,3 +72,4 @@ src/
 - LinkedIn: [João Gabriel Bastos Montezuma Ferraz](https://www.linkedin.com/in/jo%C3%A3o-gabriel-bastos-montezuma-ferraz-83948524b/)
 - GitHub: [@joaogabrielbmf](https://github.com/joaogabrielbmf)
 - E-mail: joao35797@gmail.com
+ 

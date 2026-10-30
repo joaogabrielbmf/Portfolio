@@ -3,7 +3,7 @@ function MiniCard({img, titulo}) {
         <>
             
                 <div className="flex flex-col bg-green-800 rounded-sm overflow-hidden transition duration-300 ease-in-out hover:scale-105
-            cursor-pointer max-h-80 aspect-375/300
+            cursor-pointer max-h-60 aspect-375/300
             ">
                     <img 
                     src={img} 

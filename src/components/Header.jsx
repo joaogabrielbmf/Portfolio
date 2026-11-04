@@ -40,7 +40,7 @@ function Header() {
                 <nav
                     id="mobile-navigation"
                     aria-label="Navegação principal"
-                    className={`${isMenuOpen ? "flex" : "hidden"} md:hidden absolute right-[10%] top-full z-50 w-56 flex-col gap-3 rounded-xl border border-teal-400/70 bg-emerald-900 p-3 shadow-lg`}
+                    className={`${isMenuOpen ? "flex" : "hidden"} md:hidden w-fit absolute right-[5%] px-5 top-full z-50 w-56 flex-col gap-3 rounded-xl border border-teal-400/70 bg-emerald-900 p-3 shadow-lg`}
                 >
                     {links.map(({to, label}) => (
                         <Link
